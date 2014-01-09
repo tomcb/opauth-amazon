@@ -2,12 +2,11 @@
 /**
  * Amazon strategy for Opauth
  * based on http://login.amazon.com/website
- * Heavily modified version of the Facebook Opauth strategy, 
- * https://github.com/opauth/facebook
  * 
  * More information on Opauth: http://opauth.org
  * 
- * @copyright    Copyright © 2013 U-Zyn Chua (http://uzyn.com)
+ * @copyright    Copyright ï¿½ 2013 Omlet Ltd.
+ * @link	 http://www.omlet.co.uk/
  * @link         http://opauth.org
  * @license      MIT License
  */
